@@ -5,7 +5,7 @@
     "Type": "Fighter",
     "Level": 1,
     "HP": 10,
-    "Equipment": "sword|shield|potion",
+    "Equipment": ["sword","dagger","poison"],
     "Gold": 50
   },
   {
